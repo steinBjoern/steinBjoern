@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mo (Lmoere)
+- Hi, I’m Mo (Lmoere)
 - I always liked modding since the C&C1 map editor. And before I turn 84 I'd like to release my own game.
 - I want in on that version-control and open-source stuff. So im learning Git now.
 - 
